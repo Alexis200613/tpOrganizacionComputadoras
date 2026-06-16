@@ -1,0 +1,8 @@
+load 0 aux
+load 1 tmp
+MultBa
+out 1
+stop
+
+aux: .data 2 10
+tmp: .data 2 12
