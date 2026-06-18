@@ -4,5 +4,6 @@ MultBa
 out 1
 stop
 
-aux: .data 2 10
-tmp: .data 2 12
+aux: .data 2 -20
+tmp: .data 2 2
+
